@@ -27,5 +27,11 @@ This is start template for electron forge + react + webpack + tailwing.
   - [Webpack JS](https://webpack.js.org/)
   - [Electron Forge](https://www.electronforge.io/)
 
+#### Install:
+Copy repo, and run
+```bash
+npm run start
+```
+
 Happy hacking. :heart_decoration:
 
